@@ -1,4 +1,4 @@
-# android_dovizKurV2
+# Android Studioda Döviz Kurunu CustomListView'de Gösteren Program
 
 
 # Custom listView'imizi oluşturmak için kur.java ve CustomAdapter.java dosyalarımızı oluşturuyoruz. Amacımız apiden çekmiş olduğumuz verileri customListView'imizde göstermek.
